@@ -1,16 +1,16 @@
 Manual teste the change[delete thread.sleep in runcontinious method]
 Precondition:
 Initialize the program like below:
-![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j1.png)
+![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j1.png?raw=true)
 Click Run continious button
 Expected result:
 The program run continiously, and every time it stops, it should be one of below situations. And click Run again, the program will
 show the other situation
-![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j2.png)
-![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j3.pnge)
+![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j2.png?raw=true)
+![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j3.png?raw=true)
 Priority:
 High
 
 This manual test has passed. And the results are as follow:
-![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j4.png)
-![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j5.png)
+![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j4.png?raw=true)
+![p](https://github.com/mentosforgithub/Deliverable-4/blob/master/screenshots/j5.png?raw=true)
